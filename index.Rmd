@@ -208,7 +208,7 @@ For more information consult:
     </p>
     <br/>
     <p style="font-size:20px;text-align:left;">
-        <b><span style="color:purple;">This</span> Workshop preso: <span style="color:blue;">https://github.com/drbulu/mini_R_preso</span>
+        <b><span style="color:purple;">This</span> Workshop preso: <span style="color:blue;">https://github.com/drbulu/intro_to_r-mini</span>
         </b>
     </p>
 </div>
